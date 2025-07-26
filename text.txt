@@ -1,0 +1,24 @@
+commands
+init
+clone repository already xa tyo maile use garnu paryo ki clone garni, clone garyo ki initialize garna pardaina
+status check garni status
+add   git add "file name"
+checkout
+commit
+log commit history dekhauxa
+remote kun url ma baseko xa git remote "origin"
+fetch git fetch "remote name"
+push 
+pull direct working repository ma pugxa
+git config --list
+git hub ley gareko kam show gardinxa
+u - unstage and untrack
+untrack
+change garyo ki modified hunxa
+
+change garda every time add garna parxa
+git push only if there is only one branch
+git push origin main from another branch
+
+q for quit and returning to bash
+
